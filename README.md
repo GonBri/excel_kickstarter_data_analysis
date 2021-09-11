@@ -10,6 +10,9 @@ This project is to analyze: 1. Outcomes based on goals and 2. Outcomes based on 
 ### Analysis of Outcomes Based on Launch Date
 The month of May is when there were the most successful campaigns
 
+![image](https://user-images.githubusercontent.com/90288638/132963062-a52ca4be-6a98-44f8-badd-92a82febfa48.png)
+
+
 ### Analysis of Outcomes Based on Goals
 The most successful campaigns for “plays “where on the range of $0.00 to $5000.00 and there was not canceled outcomes for plays.
 
